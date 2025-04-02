@@ -4,17 +4,14 @@
 <h3 align="center">🚀 "Full-Stack Developer | Building Scalable & Efficient Web Solutions" 🚀</h3>
 </div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=errorx407&label=Profile%20views&color=0e75b6&style=flat" alt="errorx407" /> </p>
 
----
-
-# 🚀 About Me
 
 <div align="center">
   <img src="https://github.com/errorx407/errorx407/raw/main/assets/wave.gif" width="30" alt="wave" />
 </div>
 
-- **Full-Stack Developer** | Passionate about building scalable and efficient web solutions.
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=errorx407&label=Profile%20views&color=0e75b6&style=flat" alt="errorx407" /> </p>
+
 - Currently working on **[StudyQuest](https://jeefuse.vercel.app/)** 🚀
 - Learning **NestJS** and exploring new tech stacks.
 - 💬 Ask me about **React.js, Next.js, Angular.js, Node.js**
