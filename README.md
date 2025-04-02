@@ -20,7 +20,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,html,css,js,ts,react,nextjs,nodejs,mongodb,postgresql" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,typescript,javascript,nodejs,express,mongodb,postgresql,docker,tailwind,figma,git" alt="Tech Stack" />
 </p>
 
 ---
