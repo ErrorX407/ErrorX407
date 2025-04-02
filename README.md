@@ -10,7 +10,7 @@
   
 - Currently working on **[StudyQuest](https://jeefuse.vercel.app/)** 🚀
 - Learning **NestJS** and exploring new tech stacks.
-- 💬 Ask me about **React.js, Next.js, Angular.js, Node.js**
+- 💬 Ask me about **React.js, Next.js, Angular.js, Node.js, Nest.js**
 - 📫 Reach me at: **chetanjoshi707@gmail.com**
 - ⚡ Fun Fact: _"I can turn coffee into code faster than a compiler! ☕💻"_
 </p>
