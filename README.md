@@ -1,5 +1,7 @@
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWwwOHgwanNueHlobDcxb3JjYXVhY3Jlb21rYndzb2hmMGJydnYzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5e25aUTZPcI94uMZgv/giphy.gif" width="100%" alt="Coding GIF" />
+  <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Chetan Prakash Joshi</h1>
+<h3 align="center">🚀 "Full-Stack Developer | Building Scalable & Efficient Web Solutions" 🚀</h3>
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=errorx407&label=Profile%20views&color=0e75b6&style=flat" alt="errorx407" /> </p>
