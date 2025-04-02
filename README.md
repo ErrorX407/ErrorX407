@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemp1eDM2MXJ0Mjdrc3pkdXdlMWRocTZxaWNieW82dG5xcGQ1Nno5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QyPgvXCIQ1nbCRDIXS/giphy.gif" width="600" alt="Coding GIF" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzY4a3p2YWZzcWhhb2QxNG04YzV1YXp5aDRocnc2eDZ4aGtwYmw0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pHZ8BBgLaXPliFNudh/giphy.gif" width="600" alt="Coding GIF" />
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=errorx407&label=Profile%20views&color=0e75b6&style=flat" alt="errorx407" /> </p>
