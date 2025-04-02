@@ -53,9 +53,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=errorx407&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=errorx407&theme=radical" alt="GitHub Streak" />
-</p>
+<a href="https://git.io/streak-stats" align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=ErrorX407&theme=radical" alt="GitHub Streak" /></a>
 
 ---
 
