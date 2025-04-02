@@ -24,17 +24,15 @@
       <td align="center" width="100"><img src="https://skillicons.dev/icons?i=angular" /><br>Angular</td>
       <td align="center" width="100"><img src="https://skillicons.dev/icons?i=react" /><br>React</td>
       <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nextjs" /><br>Next.js</td>
-    </tr>
-    <tr>
       <td align="center" width="100"><img src="https://skillicons.dev/icons?i=typescript" /><br>TypeScript</td>
       <td align="center" width="100"><img src="https://skillicons.dev/icons?i=javascript" /><br>JavaScript</td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nodejs" /><br>Node.js</td>
     </tr>
     <tr>
+      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nodejs" /><br>Node.js</td>
       <td align="center" width="100"><img src="https://skillicons.dev/icons?i=express" /><br>Express.js</td>
       <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mongodb" /><br>MongoDB</td>
       <td align="center" width="100"><img src="https://skillicons.dev/icons?i=postgresql" /><br>PostgreSQL</td>
-<!--       <td align="center" width="100"><img src="https://skillicons.dev/icons?i=docker" /><br>Docker</td> -->
+      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=docker" /><br>Docker</td>
     </tr>
   </table>
 </div>
