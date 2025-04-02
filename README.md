@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=errorx407&label=Profile%20views&color=0e75b6&style=flat" alt="errorx407" /> </p>
 <p align="center">
-<img align="right" src="https://media.giphy.com/media/l378rsfF5lERGhpf2/giphy.gif?cid=ecf05e47obn599djcb3lftyccdcbzh4wjaprad58hf2poogo&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="400"/>
+<img align="right" src="https://media.giphy.com/media/pI43YlhMoPqsE/giphy.gif?cid=ecf05e47obn599djcb3lftyccdcbzh4wjaprad58hf2poogo&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="400" />
   
 - Currently working on **[StudyQuest](https://jeefuse.vercel.app/)** 🚀
 - Learning **NestJS** and exploring new tech stacks.
@@ -18,24 +18,9 @@
 
 # 🛠 Tech Stack
 
-<div align="left">
-  <table>
-    <tr>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=angular" /><br>Angular</td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=react" /><br>React</td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nextjs" /><br>Next.js</td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=typescript" /><br>TypeScript</td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=javascript" /><br>JavaScript</td>
-    </tr>
-    <tr>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nodejs" /><br>Node.js</td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=express" /><br>Express.js</td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mongodb" /><br>MongoDB</td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=postgresql" /><br>PostgreSQL</td>
-      <td align="center" width="100"><img src="https://skillicons.dev/icons?i=docker" /><br>Docker</td>
-    </tr>
-  </table>
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,css,docker,express,figma,firebase,git,html,js,mongodb,mysql,nestjs,nextjs,nodejs,postgres,postman,react,redis,tailwind,ts&perline=7" />
+</p>
 
 # 📬 Connect With Me
 
