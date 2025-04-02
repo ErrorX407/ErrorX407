@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=errorx407&label=Profile%20views&color=0e75b6&style=flat" alt="errorx407" /> </p>
 <p align="center">
-<img align="right" src="https://media.giphy.com/media/l378rsfF5lERGhpf2/giphy.gif?cid=ecf05e47obn599djcb3lftyccdcbzh4wjaprad58hf2poogo&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="400"/>
+<img align="right" src="https://media.giphy.com/media/l378rsfF5lERGhpf2/giphy.gif?cid=ecf05e47obn599djcb3lftyccdcbzh4wjaprad58hf2poogo&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="200"/>
   
 - Currently working on **[StudyQuest](https://jeefuse.vercel.app/)** 🚀
 - Learning **NestJS** and exploring new tech stacks.
