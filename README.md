@@ -31,7 +31,7 @@
 const chetan = {
   role        : "Full-Stack Developer",
   location    : "India 🇮🇳",
-  current     : "StudyQuest — jeefuse.vercel.app 🚀",
+  current     : "NuralJS",
   learning    : ["NestJS", "System Design", "Redis Patterns"],
   expertise   : ["React", "Next.js", "Node.js", "PostgreSQL", "Docker"],
   contact     : "chetanjoshi707@gmail.com",
