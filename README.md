@@ -41,7 +41,13 @@
 <div align="center">
 
 <a href="https://github.com/ErrorX407/nuraljs">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ErrorX407&repo=nuraljs&hide_border=true&bg_color=0a0f1a&title_color=5b8fa8&icon_color=6b9e8a&text_color=4a6480&border_radius=8" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ErrorX407/nuraljs/main/assets/logo-dark-mode.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ErrorX407/nuraljs/main/assets/logo-light-mode.png">
+    <img alt="Nural Logo" src="assets/logo-light-mode.png" width="300">
+  </picture>
+</p>
 </a>
 
 </div>
