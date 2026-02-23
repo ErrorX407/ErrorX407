@@ -1,112 +1,139 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Chetan%20Prakash%20Joshi&fontSize=52&fontAlign=50&fontAlignY=38&fontColor=ffffff&desc=Full-Stack%20Engineer%20%E2%80%94%20Crafting%20Digital%20Experiences&descSize=18&descAlign=50&descAlignY=60&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1a,40:0f1f35,70:131628,100:0a0f1a&height=220&section=header&text=Chetan%20Prakash%20Joshi&fontSize=40&fontAlign=50&fontAlignY=45&fontColor=8ba4c8&desc=Full-Stack%20Engineer%20%E2%80%94%20Author%20of%20NuralJS&descSize=15&descAlign=50&descAlignY=63&descColor=4a6480&animation=fadeIn" width="100%"/>
 
 <br/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=Building+what+others+only+imagine+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node+%7C+NestJS;Turning+coffee+into+scalable+systems+%E2%98%95;Open+to+collab+%E2%80%94+let%27s+build+something+sick)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2800&pause=900&color=5b8fa8&center=true&vCenter=true&width=600&lines=%24+whoami;%3E+Chetan+Prakash+Joshi+%5BFull-Stack+Engineer%5D;%24+cat+%2Fetc%2Fcurrent-project;%3E+NuralJS+%E2%80%94+a+Node.js+framework+built+from+scratch;%24+git+log+--oneline+-1;%3E+feat%3A+schema-first+%7C+zod+%7C+auto-docs+%7C+di+container;%24+echo+%24STATUS;%3E+shipping+quietly.+building+loudly.)](https://git.io/typing-svg)
 
 <br/>
 
-<a href="mailto:chetanjoshi707@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-chetanjoshi707-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-</a>&nbsp;
-<a href="https://linkedin.com/in/chetan-prakash-joshi-3745922a7" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>&nbsp;
-<a href="https://instagram.com/error407official" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-error407official-E4405F?style=flat-square&logo=instagram&logoColor=white" />
-</a>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=errorx407&style=flat-square&color=blueviolet&label=profile+views" />
+![](https://img.shields.io/badge/Full--Stack_Engineer-0a0f1a?style=flat-square&logoColor=5b8fa8&color=0f1f35&labelColor=0a0f1a&logo=code)&ensp;![](https://img.shields.io/badge/Framework_Author-0a0f1a?style=flat-square&color=1a2540&labelColor=0a0f1a&logo=nodedotjs&logoColor=6b9e8a)&ensp;![](https://img.shields.io/badge/India_🇮🇳-0a0f1a?style=flat-square&color=1e1a30&labelColor=0a0f1a&logo=googlemaps&logoColor=7a6fa8)&ensp;![Views](https://komarev.com/ghpvc/?username=errorx407&style=flat-square&color=1a2540&label=visitors&labelColor=0a0f1a)
 
 </div>
 
-<br/>
-
 ---
 
-## `> whoami`
+## `$ cat ~/.profile`
 
-```ts
-const chetan = {
-  role        : "Full-Stack Developer",
-  location    : "India 🇮🇳",
-  current     : "NuralJS",
-  learning    : ["NestJS", "System Design", "Redis Patterns"],
-  expertise   : ["React", "Next.js", "Node.js", "PostgreSQL", "Docker"],
-  contact     : "chetanjoshi707@gmail.com",
-  funFact     : "I debug in production and live to tell the tale 🙃",
-};
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   chetan@dev  ~                                                  ║
+║   ──────────────────────────────────────────────────────         ║
+║   role      Full-Stack Developer                                 ║
+║   location  India 🇮🇳                                            ║
+║   contact   chetanjoshi707@gmail.com                             ║
+║                                                                  ║
+║   building  NuralJS  ──  a Node.js framework from ground up     ║
+║   studying  System Design · Compiler Internals · Redis           ║
+║   stack     TypeScript · React · Node · PostgreSQL · Docker      ║
+║                                                                  ║
+║   status    open for collabs · always shipping                   ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
-<br/>
-
 ---
 
-## `> tech --stack`
+## `$ ls /projects --featured`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,nodejs,nestjs,express&perline=8&theme=dark" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,docker,firebase,tailwind,figma&perline=8&theme=dark" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,postman,html,css,linux&perline=8&theme=dark" />
+<a href="https://github.com/ErrorX407/nuraljs">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ErrorX407&repo=nuraljs&hide_border=true&bg_color=0a0f1a&title_color=5b8fa8&icon_color=6b9e8a&text_color=4a6480&border_radius=8" />
+</a>
 
 </div>
 
 <br/>
 
+```diff
+  $ nural --describe
+  ─────────────────────────────────────────────────────
+  NuralJS — intelligent, schema-first REST for Node.js
+  ─────────────────────────────────────────────────────
++ write your zod schema once. get everything.
++ ✓  end-to-end typescript inference
++ ✓  request & response validation (zod)
++ ✓  auto openapi docs — scalar ui, zero config
++ ✓  type-safe middleware context injection
++ ✓  guards · interceptors · di container
++ ✓  websockets · cron · cli scaffolding
++ ✓  express & fastify support
+  ─────────────────────────────────────────────────────
+  $ npm install @nuraljs/core zod express
+```
+
 ---
 
-## `> github --stats`
+## `$ tech --list`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=errorx407&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&border_radius=12" height="170" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=errorx407&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_radius=12&langs_count=8" height="170" />
+<br/>
 
-<br/><br/>
+**`// frontend`**
 
-<img src="https://streak-stats.demolab.com?user=errorx407&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&border_radius=12" height="170" />
+[![TypeScript](https://img.shields.io/badge/TypeScript-0a0f1a?style=for-the-badge&logo=typescript&logoColor=4a7fa8)](.)
+[![React](https://img.shields.io/badge/React-0a0f1a?style=for-the-badge&logo=react&logoColor=4a8fa8)](.)
+[![Next.js](https://img.shields.io/badge/Next.js-0a0f1a?style=for-the-badge&logo=nextdotjs&logoColor=8ba4c8)](.)
+[![Angular](https://img.shields.io/badge/Angular-0a0f1a?style=for-the-badge&logo=angular&logoColor=8a5f7a)](.)
+[![Tailwind](https://img.shields.io/badge/Tailwind-0a0f1a?style=for-the-badge&logo=tailwindcss&logoColor=4a8fa0)](.)
+
+<br/>
+
+**`// backend`**
+
+[![Node.js](https://img.shields.io/badge/Node.js-0a0f1a?style=for-the-badge&logo=nodedotjs&logoColor=6b9e8a)](.)
+[![NuralJS](https://img.shields.io/badge/NuralJS_%E2%86%90_authored-0a0f1a?style=for-the-badge&logo=nodedotjs&logoColor=7aab94)](.)
+[![NestJS](https://img.shields.io/badge/NestJS-0a0f1a?style=for-the-badge&logo=nestjs&logoColor=8a5f70)](.)
+[![Express](https://img.shields.io/badge/Express-0a0f1a?style=for-the-badge&logo=express&logoColor=8ba4c8)](.)
+
+<br/>
+
+**`// data`**
+
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0f1a?style=for-the-badge&logo=postgresql&logoColor=5b7ea8)](.)
+[![MongoDB](https://img.shields.io/badge/MongoDB-0a0f1a?style=for-the-badge&logo=mongodb&logoColor=6b9e8a)](.)
+[![Redis](https://img.shields.io/badge/Redis-0a0f1a?style=for-the-badge&logo=redis&logoColor=8a5f5f)](.)
+[![MySQL](https://img.shields.io/badge/MySQL-0a0f1a?style=for-the-badge&logo=mysql&logoColor=5b7ea8)](.)
+
+<br/>
+
+**`// infra & tools`**
+
+[![Docker](https://img.shields.io/badge/Docker-0a0f1a?style=for-the-badge&logo=docker&logoColor=4a7fa8)](.)
+[![Firebase](https://img.shields.io/badge/Firebase-0a0f1a?style=for-the-badge&logo=firebase&logoColor=9a8a5a)](.)
+[![Git](https://img.shields.io/badge/Git-0a0f1a?style=for-the-badge&logo=git&logoColor=8a6a5a)](.)
+[![Figma](https://img.shields.io/badge/Figma-0a0f1a?style=for-the-badge&logo=figma&logoColor=8a6a8a)](.)
+[![Postman](https://img.shields.io/badge/Postman-0a0f1a?style=for-the-badge&logo=postman&logoColor=9a7a6a)](.)
+
+</div>
+
+---
+
+## `$ links --all`
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-0f1f35?style=for-the-badge&logo=gmail&logoColor=8ba4c8)](mailto:chetanjoshi707@gmail.com)&ensp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f1f35?style=for-the-badge&logo=linkedin&logoColor=8ba4c8)](https://linkedin.com/in/chetan-prakash-joshi-3745922a7)&ensp;[![Instagram](https://img.shields.io/badge/Instagram-0f1f35?style=for-the-badge&logo=instagram&logoColor=8ba4c8)](https://instagram.com/error407official)&ensp;[![NuralJS](https://img.shields.io/badge/NuralJS-0f1f35?style=for-the-badge&logo=nodedotjs&logoColor=6b9e8a)](https://github.com/ErrorX407/nuraljs)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+┌──(chetan㉿dev)-[~]
+└─$ echo "Talk is cheap. Show me the code." && exit
+> Talk is cheap. Show me the code.  — Linus Torvalds
+> Connection to dev closed. ▌
+```
 
 </div>
 
 <br/>
 
----
-
-## `> github --trophies`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=errorx407&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
-
-</div>
-
-<br/>
-
----
-
-## `> activity --graph`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=errorx407&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f472b6&area=true&area_color=7c3aed&hide_border=true&border_radius=12" width="100%" />
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-*`"The best code is no code. The second best is code you understand at 3am."`*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1a,40:131628,70:0f1f35,100:0a0f1a&height=120&section=footer&animation=fadeIn&reversal=false" width="100%"/>
